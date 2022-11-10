@@ -23,7 +23,7 @@ N-ичную систему исчесления в Python
 
 $$A \wedge A = A$$  
 
- ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114632612/198817664-dd384584-6a2d-4cc4-9bf8-d086ed980138.png)
+$$ ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114632612/198817664-dd384584-6a2d-4cc4-9bf8-d086ed980138.png)$$
  
  $$\overline{E}^{2}_{1} = \sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{2}}_1+\beta_1^\frac{2}{3}$$
  
