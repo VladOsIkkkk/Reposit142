@@ -31,4 +31,4 @@ $$A \wedge A = A$$
  
 $$\left( x + \frac{1}{1+\frac{1}{x}} \right)^{\frac{2}{3}}$$
 
-   ![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/114632612/200985018-198e8612-4c6c-4d21-9165-c5d30bf313a2.png)
+![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/114632612/200985018-198e8612-4c6c-4d21-9165-c5d30bf313a2.png)
