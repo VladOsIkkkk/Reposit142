@@ -27,3 +27,5 @@ $$A \wedge A = A$$
  
  $$\overline{E}^{2}_{1} = \sqrt{\frac{Fa^{x-1}}{(x-1)x)}}+\alpha^{\frac{1}{2}}_{1}+\beta_{1}^\frac{2}{3}$$
  
+ $$1+\tan^{2}\alpha = \frac{1}{\cos^{2}\alpha}$$
+ 
