@@ -25,7 +25,7 @@ $$A \wedge A = A$$
 
  ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114632612/198817664-dd384584-6a2d-4cc4-9bf8-d086ed980138.png)
  
- $$\overline{E}^{2}_{1} = \sqrt{\frac{Fa^{x-1}}{(x-1)x)}}+\alpha^{\frac{1}{2}}_{1}+\beta_{1}^\frac{2}{3}$$
+ $$\overline{E}^{2}_{1} = \sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{2}}_{1}+\beta_{1}^\frac{2}{3}$$
  
  $$1+\tan^{2}\alpha = \frac{1}{\cos^{2}\alpha}$$
  
