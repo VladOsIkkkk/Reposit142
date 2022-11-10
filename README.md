@@ -29,3 +29,4 @@ $$A \wedge A = A$$
  
  $$1+\tan^{2}\alpha = \frac{1}{\cos^{2}\alpha}$$
  
+$$\left( x + \frac{1}{1+\frac{1}{x}} \right)^{\frac{2}{3}}$$
